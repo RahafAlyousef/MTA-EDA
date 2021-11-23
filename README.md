@@ -20,3 +20,7 @@ Analyze turnstile data three months from the Jul – Sep 2021.
 - Seaborn
 - Datetime
 - sqlalchemy
+
+By:
+- [Rahaf Alyousef](https://github.com/rahafkh1)
+- [Alanoud Almutairi](https://github.com/alaanouud)
